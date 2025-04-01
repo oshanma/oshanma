@@ -1,10 +1,23 @@
 # 👋 Hi, I’m Oshan Maharjan
 
-💡 I’m passionate about solving the age-old economic dilemma — **"unlimited wants with limited resources"** — by leveraging the **comparative advantage of technology** to address real-world economic and social challenges.
+💡 I'm passionate about solving the age-old economic dilemma — **"unlimited wants with limited resources"** — by leveraging the **comparative advantage of technology** to tackle real-world economic and social challenges.
 
-🚀 Currently working as a **Full-Stack Developer** at **Argus Tech Corporation**, where I'm building a mobile app that empowers investors through smart, AI-powered tools that cut through information overload.
+---
 
-📫 **Let's connect**:  
-[LinkedIn](https://www.linkedin.com/in/oshan-maharjan/) | oshanmaharjan2016@gmail.com
+## 🚀 What I'm Working On  
+**Full-Stack Developer @ Argus Tech Corporation**  
+Building a mobile app that empowers investors through smart, AI-powered tools — helping them cut through the noise and make sharper decisions without the overwhelm.
 
-🏀💻📈 **Fun fact**: I used to wake up at 4 AM in Nepal just to watch NBA playoff games live. My top three passions? **Basketball, tech, and economics** — always in that order.
+---
+
+## 📬 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/oshan-maharjan/)  
+- 📧 oshanmaharjan2016@gmail.com
+
+---
+
+## 🏀💻📈 Fun Fact  
+I used to wake up at **4 AM in Nepal** just to catch NBA playoff games live.  
+My top three passions?  
+**Basketball. Tech. Economics.**  
+Always in that order.
