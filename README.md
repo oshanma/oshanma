@@ -20,4 +20,4 @@ Building a mobile app that empowers investors through smart, AI-powered tools â€
 I used to wake up at **4 AM in Nepal** just to catch NBA playoff games live.  
 My top three passions?  
 **Basketball. Tech. Economics.**  
-Always in that order.
+
