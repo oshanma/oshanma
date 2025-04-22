@@ -6,7 +6,7 @@
 
 ## CURRENTLY WORKING AT:
 **Full-Stack Developer @ Argus Tech Corporation**  
-Building a mobile app that empowers investors through smart, AI-powered tools — helping them cut through the noise and make sharper decisions without the overwhelm.
+
 
 ---
 
